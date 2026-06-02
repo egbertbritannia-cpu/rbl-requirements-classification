@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data & Models
+data/raw/*.csv
+data/processed/*.csv
+*.bin
+*.pt
+
+# Secrets
+.env
+api_keys.txt

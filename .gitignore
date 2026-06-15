@@ -226,3 +226,6 @@ data/processed/*.csv
 # Secrets
 .env
 api_keys.txt
+
+data/raw/*.xlsx
+data/processed/*.xlsx

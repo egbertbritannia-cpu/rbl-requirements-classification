@@ -1,60 +1,61 @@
-````markdown
-# 🤖 RBL: AI Classification of Software Requirements (FR vs NFR)
+# Datasets
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/rbl-requirements-classification/blob/main/notebooks/01_EDA_and_preprocessing.ipynb)
+This directory contains all raw, processed, and augmented datasets used in the project.
 
-## 📌 Tổng Quan Đề Tài
-
-**Câu hỏi nghiên cứu**: *"How accurately can AI classify software requirements into functional and non-functional categories?"*
-
-Dự án này so sánh khả năng phân loại yêu cầu phần mềm (FR/NFR) của các phương pháp AI:
-- Classical ML: Naive Bayes, SVM, Logistic Regression
-- Transformer: BERT, RoBERTa
-- LLMs: GPT-4o, Llama 3 (zero-shot & few-shot prompting)
-
-## 👥 Thành Viên Nhóm
-
-| Tên | MSSV | Vai trò |
-|-----|------|---------|
-| Nguyễn Văn A | 2xxxxxxx | Data preprocessing, Baseline models |
-| Trần Thị B   | 2xxxxxxx | BERT fine-tuning |
-| Lê Văn C     | 2xxxxxxx | LLM experiments, Report |
-
-## 📁 Cấu Trúc Dự Án
+## Directory Structure
 
 ```
-notebooks/01_EDA_and_preprocessing.ipynb   ← Khám phá & làm sạch dữ liệu
-notebooks/02_baseline_models.ipynb         ← SVM, Naive Bayes
-notebooks/03_bert_finetuning.ipynb         ← BERT / RoBERTa
-notebooks/04_llm_prompting.ipynb           ← GPT-4o, Llama 3
-notebooks/05_results_analysis.ipynb        ← So sánh tổng hợp
+data/
+├── raw/                    # Original, unmodified source datasets
+├── processed/              # Cleaned, merged, and split data (train/val/test)
+└── paraphrased/            # LLM-generated paraphrase variants (for RQ2)
 ```
 
-## 🚀 Cách Chạy (Google Colab)
+## Raw Datasets
 
-1. Click vào badge "Open in Colab" bên trên
-2. Đăng nhập Google Account
-3. Chọn: **Runtime → Change runtime type → GPU (T4)**
-4. Chạy cell đầu tiên để setup môi trường
+### 1. PROMISE (Relabeled) — Primary Source
+- **File**: `raw/PROMISE-relabeled-NICE.csv`
+- **Records**: 622
+- **Columns**: `ProjectID`, `RequirementText`, `IsFunctional`, `IsQuality`, + 12 NFR subtype columns (binary 0/1)
+- **Source**: [PROMISE Software Engineering Repository](http://openscience.us/repo/requirements/nfr.html), relabeled by NICE framework
+- **Mapping**: `IsFunctional=1` → FR, else → NFR
 
-## 📊 Kết Quả (cập nhật liên tục)
+### 2. PROMISE (Expanded)
+- **File**: `raw/promise_exp.csv`
+- **Records**: 969
+- **Columns**: `ProjectID`, `RequirementText`, `class`
+- **Label values**: F, SE, US, PE, LF, O, A, MN, SC, FT, L, PO
+- **Mapping**: `class='F'` → FR, else → NFR
+- **Note**: Deduplicated against PROMISE-relabeled-NICE (primary source takes priority)
 
-| Model | Weighted F1 | Trạng thái |
-|-------|------------|-----------|
-| SVM (TF-IDF) | - | ⏳ Đang thực hiện |
-| BERT-base | - | ⏳ Chờ |
-| GPT-4o (0-shot) | - | ⏳ Chờ |
+### 3. DCAI24 (Merged Multi-Source)
+- **File**: `raw/dcai24_src_dataset.xlsx`
+- **Records**: 3,482
+- **Columns**: `Requirement`, `Type`, `Specific_Type`, `Security_Category`, `Dataset_Name`
+- **Mapping**: `Type='FR'` → FR, `Type='NFR'` → NFR (direct mapping)
 
-## 📦 Dataset
+### 4. EARS (Functional Requirements Only)
+- **File**: `raw/EARS Functional Requirements Complete Dataset.xlsx`
+- **Records**: 9,677
+- **Columns**: `Projects`, `Raw Requirements`, `Requiremnet Name`, `EARS Type`, `EARS Requirement`
+- **EARS Types**: ubiquitous, state driven, event driven, unwanted behaviour, optional feature
+- **⚠️ Important**: This dataset contains **only FR** samples. All records are mapped to FR. Used selectively for class imbalance handling.
+- **Known quality issues**: Inconsistent casing (`Ubiquitous` vs `ubiquitous`), leading whitespace in labels, truncated labels (`unwanted` vs `unwanted behaviour`). Cleaning is required before use.
 
-- **PROMISE NFR Dataset**: 625 software requirements, 12 classes
-- Nguồn: `openscience.us/repo/requirements/nfr.html`
+## Label Unification
 
-## 🔗 Tài Liệu Liên Quan
+All datasets are merged into a unified binary classification task:
 
-- [Cẩm Nang Nghiên Cứu](docs/research_questions.md)
-- [Ghi Chú Papers](papers/paper_notes.md)
-````
+| Label | Value | Description |
+|-------|-------|-------------|
+| FR | 0 | Functional Requirement |
+| NFR | 1 | Non-Functional Requirement |
 
-> ⚠️ **Thay `YOUR_USERNAME`** bằng tên GitHub thật của bạn ở badge Colab
- 
+## Data Splits
+
+After merging and deduplication, data is split into:
+- **Train**: 80%
+- **Validation**: 10%
+- **Test**: 10%
+
+Stratified splitting is used to preserve class distribution across splits.

@@ -199,3 +199,6 @@ results/checkpoints/
 
 # Secrets
 api_keys.txt
+
+# Papers (do not push pdfs)
+papers/*.pdf

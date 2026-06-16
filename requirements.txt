@@ -1,14 +1,25 @@
-pandas>=2.1.0
-numpy>=1.26.0
-scikit-learn>=1.3.2
-matplotlib>=3.8.0
-seaborn>=0.13.0
-nltk>=3.8.1
-imbalanced-learn>=0.11.0
-torch>=2.1.0
-transformers>=4.35.0
-datasets>=2.14.0
-openai>=1.3.0
-tqdm>=4.66.1
-python-dotenv>=1.0.0
-scipy>=1.11.4
+# Core Data & ML Basics
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+openpyxl==3.1.2
+
+# Deep Learning & NLP
+torch>=2.0.0
+transformers==4.40.1
+datasets==2.19.0
+accelerate==0.29.3
+nltk==3.8.1
+spacy==3.7.4
+
+# Explainable AI
+shap==0.45.0
+captum==0.7.0
+
+# Experiment Tracking
+wandb==0.16.6
+
+# Utilities & Visualization
+jupyter==1.0.0
+matplotlib==3.8.4
+seaborn==0.13.2

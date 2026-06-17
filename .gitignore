@@ -185,20 +185,21 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Data & Models (raw data not tracked — download separately)
-data/raw/*.csv
-data/raw/*.xlsx
-data/processed/*.csv
-data/processed/*.xlsx
-data/paraphrased/*.csv
+# data/raw/*.csv
+# data/raw/*.xlsx
+# data/processed/*.csv
+# data/processed/*.xlsx
+# data/paraphrased/*.csv
 
 # Model checkpoints & weights
 results/checkpoints/
 *.bin
 *.pt
 *.safetensors
+*.pkl
 
 # Secrets
 api_keys.txt
 
 # Papers (do not push pdfs)
-papers/*.pdf
+papers/

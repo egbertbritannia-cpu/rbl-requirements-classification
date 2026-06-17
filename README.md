@@ -151,12 +151,6 @@ jupyter notebook
 | 8 | Robustness evaluation + Discussion (XAI on small sample) | RQ2 results, error analysis |
 | 9 | Write paper + package code for reproducibility | Final submission |
 
-## Team
-
-| Name | Student ID | Role |
-|------|-----------|------|
-| TBD | TBD | TBD |
-
 ## Key References
 
 - Warner et al. (2024) — ModernBERT: A Decoder-Only Model for Masked Language Modeling

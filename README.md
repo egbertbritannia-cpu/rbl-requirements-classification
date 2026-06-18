@@ -25,7 +25,7 @@ Input: Software Requirement Text
          │
     ┌────┴────┐
     ▼         ▼
-ModernBERT  ELECTRA
+ModernBERT  ELECTRA 
  (MLM)      (RTD)
     │         │
     h_MB      h_EL        ← CLS token embeddings (ℝ^768 each)

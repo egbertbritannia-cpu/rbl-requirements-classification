@@ -19,6 +19,9 @@ captum==0.7.0
 # Experiment Tracking
 wandb==0.16.6
 
+# LLM Baseline
+openai>=1.40.0
+
 # Utilities & Visualization
 jupyter==1.0.0
 matplotlib==3.8.4

@@ -8,8 +8,6 @@
 
 Current AI models achieve high accuracy on static requirement datasets, yet they remain brittle when stakeholders rephrase the same intent using different sentence structures — a common reality in Agile environments. This project proposes a **Hybrid Transformer architecture** that fuses **ModernBERT** (Masked Language Modeling) and **ELECTRA** (Replaced Token Detection) through an **Adaptive Gated Fusion** mechanism, exploiting the paradigm complementarity of their pre-training objectives to build a classifier that is both accurate *and* robust against paraphrasing.
 
-> Current data protocol: see [`docs/current_experiment_scope.md`](docs/current_experiment_scope.md). The original broader research plan is preserved in [`docs/original_research_plan.md`](docs/original_research_plan.md).
-
 ## Research Questions
 
 | # | Research Question | Focus |

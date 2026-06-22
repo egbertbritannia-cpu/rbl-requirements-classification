@@ -1,3 +1,7 @@
+# Legacy Draft Notice
+
+This proposal is an earlier draft and is not the active repository scope. The current experiment protocol uses only `data/exp/promise_exp.csv` and focuses on reproducing/adapting baseline methodology on the PROMISE expanded dataset. See `README.md` and `docs/research_questions.md` for the current scope.
+
 # Proposal
 
 **"Beyond Accuracy: Enhancing the Robustness of Software Requirements Classification against Paraphrasing using Paradigm-Complementary Hybrid Transformers"** *(Vượt xa Độ chính xác: Nâng cao độ bền vững của phân loại yêu cầu phần mềm trước nhiễu loạn hành văn bằng kiến trúc Transformer lai bổ trợ nguyên lý)*

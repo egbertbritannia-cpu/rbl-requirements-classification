@@ -1,0 +1,164 @@
+text,label,source
+Controls access to data in the repository based on multiple permission levels. These permission levels determine the create/edit/read/delete privileges granted users.,SE,dcai24
+Ability for the user to access mailbox and components via a web browser over a secure (encrypted) connection.,SE,dcai24
+'The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.',MN,NICE
+'The system shall be available for use between the hours of 8am and 6pm.',A,NICE
+The product shall use symbols and words that are naturally understandable by users familiar with websites,US,promise_exp
+"All organisations hosting components of the EHRi must ï¿½ and organisations connecting to the EHRi should ï¿½ ensure that PHI and other security critical data stored on removable media are: a) encrypted while the media are in transit to protect the data's confidentiality and integrity; and Admin Requirement Tech Requirement b) protected from theft, where appropriate, while the media are in transit to protect the data's availability.",SE,dcai24
+"4) The system shall provide EHR-S security administrators with the ability to grant authorizations for roles according to scope of practice, organizational policy, or jurisdictional law.",SE,dcai24
+'The product is expected to run on Windows CE and Palm operating systems.',PO,NICE
+NPAC SMS shall provide postâ€‘collection audit analysis tools that can produce summary reports on users relating to system intrusions.,SE,dcai24
+'The product shall comply with the estimatics laws relating to recycled parts usage.',L,NICE
+It should not take more than 120 seconds for a new user to register for an account.,US,promise_exp
+Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.,PE,promise_exp
+The CNG and the CPN shall support adequate Quality of Service mechanisms (e.g. prioritize the traffic in the event that there is not sufficient bandwidth in the customer network in order to ensure the correct network performances to each traffic flow). To achieve this objective a number of functionalities shall be supported by CNG and/or CNDs as defined in the following bullets. Most of the following set of requirements is defined adopting as a reference the Home Gateway Initiative (HGI) Release 1 Specification mentioned in clause 2 [6].,PE,dcai24
+The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.,LF,promise_exp
+The Disputes applications shall interface with the Merchant Information Database. The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.,O,promise_exp
+'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies. Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.',PE,NICE
+Every registered user will have access to the product s support site via the Internet. 70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,US,dcai24
+'Changes to revenue and expense formulae must be applied to the RFS system every year prior to the budgeting process start. Revenue and expense formulae will be updated within one week of their receipt after which 2 weeks will be allotted to testing of the budget calculations to be conducted jointly by the project development team and PCG Finance.',L,NICE
+The system must be able to retrieve and display structured documents from external sources only to authorized users.,SE,dcai24
+"The DUAP System shall allow the system administrator to add, modify, and delete Computational Services.",SE,dcai24
+For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.,O,dcai24
+The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data.  The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.,FT,promise_exp
+Each page shall contain a navigation menu which shows the index into which the current page is contained.,LF,promise_exp
+'The product shall be installed by an untrained realtor without recourse to separately-printed instructions.',US,NICE
+The website will provide a help section with answers and solutions to common problems.,US,promise_exp
+The web application shall add no more than 5 seconds of perceivable overhead time to any necessary web and database transaction time.,PE,promise_exp
+The washing process must use a non binding neutral data format such as xml when receiving and processing lead data.,O,dcai24
+It should be possible for a service profile to be associated with each identity within a CPN subscription.,O,dcai24
+The system should use the company colors and logos.,LF,promise_exp
+An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.,US,promise_exp
+'The Disputes application must maintain a detailed history of every action that a user takes on a dispute case. This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.',L,NICE
+Only authorized user shall access the RFS system. ONLY users that exist in the UAS system  with the RFS system assigned to their role(s)  shall access the RFS system and use it.,SE,promise_exp
+The available server must be reliable and the network connectivity in the supermarket should be proper for smooth flow of all operations and data.,O,promise_exp
+The Disputes application shall interface with the Cardmember Posting and Billing System. This will allow the Disputes application to request adjustments to cardmember and merchant's accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.',O,NICE
+'The website shall not be offensive to religious or ethnic groups.',LF,NICE
+An end-user may use this system on any OS; either it is Windows or Linux.,PO,promise_exp
+All organisations hosting components of the EHRi or connecting to the EHRi must obtain a signed confidentiality agreement from each permanent or temporary staff member or contractor who is a registered user of a POS connected to the EHRi or who has access to hosted components of the EHRi as part of his or her initial terms and conditions of employment.,SE,dcai24
+NPAC SMS shall support exchange of the list of keys in person or remotely.,SE,dcai24
+The system shall provide handicap access.,US,promise_exp
+'All screens created as part of the Disputes application must comply with corporate standards for interface creation.',L,NICE
+The user ID and date or time stamp shall be recorded.,SE,dcai24
+The product shall be able to display calendar dates and times according to the user s locale. 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.,US,dcai24
+Unload and currency exchange transactions are optional for CEP card issuers. The CEP card must indicate whether the card issuer supports these transactions. However if a card issuer issues multi-currency capable cards it must provide its cardholder with a facility to remove any remaining value. As a result if a card issuer supports loading of multiple currencies onto a card then it must support the unload or currency exchange transaction or both,LF,dcai24
+'Aside from server failure the software product shall achieve 99.99% up time.',A,NICE
+The website will use standard Internet conventions when interacting with the user.,US,promise_exp
+The product must support Internet Explorer 5.5 and above.,O,promise_exp
+'2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.',US,NICE
+'System shall let customers cancel their account process shall take no longer than 2 minutes. Database will mark the account as inactive and user will not be able to log into the website.',PE,NICE
+The website shall be available for use 24 hours per day 365 days per year.,A,dcai24
+The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.,A,promise_exp
+All organisations hosting components of the EHRi must monitor capacity demands and project future capacity requirements to ensure adequate processing power and storage will be made available to host those EHRi components.,SE,dcai24
+The MTBF (if any) should not be less than 2 months.,A,promise_exp
+The system must be available for use between 7,A,dcai24
+"These user registration procedures must ensure: a) that the level of user identification that is provided is consistent with the assurance required, given the value of the information assets and the functions that will become available to the user; b) that each potential user has a legitimate relationship with the organisation; c) that each potential user has a legitimate need to access PHI via the EHRi.",SE,dcai24
+The website shall be capable of supporting 100 000 customers.,SC,promise_exp
+The product shall be easy to use by Adjusters and Collision Estimators. 95% of Adjusters and Collision Estimators shall find the product easy to use.,US,dcai24
+The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.,PE,promise_exp
+'The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.',A,NICE
+"NCAR Gatekeeper password policies will be governed by the NCAR Gatekeeper tools and policies, Enforcement of these policies and procedures will NOT be enforced through the GridBGC portal.",SE,dcai24
+It should not take more than 90 seconds for a registered user to place an order.,US,promise_exp
+The system shall have a professional appearance,LF,promise_exp
+The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.',US,NICE
+"Access rights and conditions can be assigned to an object on an individual basis, or on a group of identified objects at one time.",SE,dcai24
+The interface must summarize the data in a fashion that\92s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface,LF,promise_exp
+The product must be designed using Design Patterns and coding best practices. 90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.,MN,dcai24
+On a 112k connection or faster  the system response time for all operations must be no more than 3 seconds 90% of the time.,PE,promise_exp
+We must be able to interface with the following browsers,O,dcai24
+When forwarding packets from the customer network to the WAN interface the CNG shall manage a number of queues corresponding to the different priorities detected in the classification phase for each packet processed.,PE,dcai24
+'The product shall comply with insurance regulations regarding claims processing.',L,NICE
+When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.,PE,promise_exp
+All additions of new users and modifications to user\92s access shall be recorded on the User Report.,SE,promise_exp
+The customer environment (CNG and/or CNDs) should support a mechanism to allow service roaming,O,dcai24
+'The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.',FT,NICE
+The product must work with most database management systems (DBMS) on the market whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.,O,dcai24
+The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.,MN,promise_exp
+'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.',SC,NICE
+Users should only have to navigate through a maximum of 4 pages  to create an account with the website.,US,promise_exp
+'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.',L,NICE
+The NGN network QoS functions shall be possible to use to enhance the end-user experience.,PE,dcai24
+'The search results shall be returned no later 30 seconds after the user has entered the search criteria',PE,NICE
+'The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.',SC,NICE
+'Velkat staff will be available for phone support between 7am-7pm M-F to provide technical support to the Izogn administrators.',A,NICE
+The product shall be capable of handling up to 1 000 concurrent requests. This number will increase to 2 000 by Release 2. The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.,SC,dcai24
+The product must work with most database management systems (DBMS) on the market  whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.,O,promise_exp
+The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.,SC,promise_exp
+'The product shall be able to be installed in any operating environment within 2 days.',O,NICE
+'The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications',PE,NICE
+'The System shall be able to automatically backup business data and restore them on demand.',FT,NICE
+The product will be as secure as the web browser that will run the product.,SE,dcai24
+Any time a template is used the user shall get their own full private copy of the data.,SE,dcai24
+'The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.',LF,NICE
+The product shall be able to process 10 000 transactions per hour within two years of its launch. This number will increase to 20 000 by Release 2.,SC,dcai24
+The system should be able to manage all the information incoming from the database and the catalogue.,O,promise_exp
+'The product will require collaboration with a database management system (DBMS). The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.',O,NICE
+'The Disputes application shall interface with the Cardmember Information Database. The Cardmember Information Database provides detailed information with regard to a cardmember. All cardmember detail information must be obtained from the Cardmember Information Database.',O,NICE
+The product shall interface CSR and Datastream.The product shall exchange messages between CSR and EAM on a real time basis without any direct interfaces between two systems.,O,promise_exp
+'The product must be able to interface with various email servers. The product shall be able to send email.',O,NICE
+The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications,PE,promise_exp
+The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.,O,promise_exp
+NPAC SMS shall expect new key initiation to be requested on a per Service Provider application basis.,SE,dcai24
+'The product shall allow for intuitive searching of available conference rooms.',US,NICE
+The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.,MN,promise_exp
+'Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.',MN,NICE
+The website shall continue to operate if the payment gateway goes down.,FT,promise_exp
+"3) The system shall provide EHR-S security administrators with the ability to grant authorizations to principals according to scope of practice, organizational policy, or jurisdictional law.",SE,dcai24
+The message board shall contain the 5 most recently posted messages on the league page. The messages will contain up to the first 150 characters of the message.,LF,promise_exp
+Load acquirers must determine the currencies that they must support for load transaction,L,dcai24
+Every registered user will have access to the product\92s support site via the Internet. 70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,US,dcai24
+The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.',LF,NICE
+The product shall be based on web and has to be run from a web server.,O,promise_exp
+New branches/complexes/districts/regions and revenue/expense accounts added to the BDW must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end will be loaded into the RFS system prior to the budget start process.,MN,dcai24
+"System shall let customers register on the website as a ""pay as you go"" user in under 5 minutes.'",PE,NICE
+'We must be able to interface with any HTML browser.',O,NICE
+System shall let existing customers log into the website with their email address and password in under 5 seconds.,PE,promise_exp
+The RFS system should be able to easily interface with the BDW environment in order to load the data. Seven data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year. The data will be as of October month-end. Test files (7) shall be loaded up to 5 times throughout the year from the BDW.',O,NICE
+CPN environment shall be protected with a stateful firewall function that may be implemented in the CNG.,SE,dcai24
+Since the software must run on several popular hardware platforms and the goal is to achieve a reasonable level of platform independence.,PO,promise_exp
+'The system shall link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.',MN,NICE
+The system should provide audit information about additions and changes to the status of destinations and sources.,SE,dcai24
+The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.,US,promise_exp
+The product shall be robust.The product shall have fault avoidance based on standards adoption.,FT,promise_exp
+The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.',PE,NICE
+Sockets maintain the buffers between the underlying packet based communication primitives that directly access the network elements and the message based.,SE,dcai24
+The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.,LF,promise_exp
+'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.',O,NICE
+The system shall provide multi language support.,US,promise_exp
+The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.,PE,promise_exp
+"Non-repudiation is a way to guarantee that the source of data or record can not later deny that fact, that the sender of a message cannot later deny having sent the message, and that the recipient cannot deny having received the message.",SE,dcai24
+The Disputes application shall be available 24x7x365 with the exception of the following scheduled maintenance windows. Monday Saturday 3,O,dcai24
+The interface shall be appealing to callers and supervisors. In the interface and usability survey  80% of beta testers must report that the interface is appealing.,LF,promise_exp
+Any page of the application should not take more than 6 seconds to load on a DSL broadband connection.,PE,promise_exp
+'Out of 1000 accesses to the system the system is available 999 times.',A,NICE
+Izogn Administrator must be able to add new products to the website within 2 minutes.,PE,promise_exp
+When forwarding packets from the WAN interface to the customer network the CNG shall perform one of the following three actions depending on the classification results: manage a number of queues corresponding to the different priorities detected in the classification phase for each packet processed send the packets to some internal buffers or simply drop the packet.,PE,dcai24
+The CNG and the CPN shall implement mechanisms to limit the visibility of the WAN side network and resources to authorized entities.,SE,dcai24
+The system shall utilize HTTPS communication to ensure data confidentiality.,SE,promise_exp
+The system may be throttled or slowed down on heavy loads to ensure service for everybody. By throttling is meant that certain functionality may be unavailable during heavy server load.,PE,promise_exp
+The WCS system shall be available at all times as long as IBM\92s internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM\92s internal intranet W3 is available.,A,promise_exp
+The product shall be able to display calendar dates and times according to the user's locale. 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.',US,NICE
+Non repudiation guarantees that the source of the data record can not later deny that it is the source; that the sender or receiver of a message cannot later deny having sent or received the message.,SE,dcai24
+System shall let customers register on the website as a unlimited movie subscriber user in under 10 minutes.,PE,dcai24
+STB or media gateways should be equipped with a programmable open API allowing the implementation of specific service logics.,MN,dcai24
+'The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.',MN,NICE
+A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.,US,promise_exp
+The RLCS application software shall Update and read password and device rule data in encrypted format.,SE,dcai24
+The CPN should support a capability to ensure QoS and call prioritization for sessions originating or terminating in the H(e)NB.,PE,dcai24
+The website shall be attractive to all audiences. The website shall appear to be fun and the colors should be bright and vibrant.,LF,dcai24
+When a shot is marked as a hit  the product shall simulate the sound of a shot hitting its target.,LF,promise_exp
+The product shall be able to display calendar dates and times according to the user\92s locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.,US,promise_exp
+'The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.',MN,NICE
+'Only managers are able to perform search queries for reservations by user. 100% of all search queries for reservations by user shall be from logons of only management logons.',SE,NICE
+'A list of all disputes cases that meet the entered search criteria must be provided to the user. The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list. For example all open cases will be yellow and all closed cases will be gray.',LF,NICE
+All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available),US,promise_exp
+'The system shall cater to 10 simultaneous users from 9am to 5pm.',A,NICE
+The product shall run on the existing hardware for all environments.,O,promise_exp
+After investigation if the merchant acquirer decides based on scheme rules to accept the transactions a method must exist to settle them and forward them to the card issuer,O,dcai24
+'The website design should be modern clean and concise.',LF,NICE
+Such active intrusion detection is an essential feature of robust security systems.,SE,dcai24
+The system must be available for use between 7:00AM and 11:59PM all days of the year.',A,NICE
+'The product shall have a consistent color scheme and fonts.',LF,NICE
+'The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.',LF,NICE
+The system shall reveal private information only in compliance with the organization's information policy.',L,NICE
+The system shall be able to display a menu at all times to facilitate manual order taking should the need arise.,LF,promise_exp

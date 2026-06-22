@@ -1,532 +1,248 @@
 text,label,source
-On indication received at the CNG of a resource allocation expiry the CNG shall delete all residual data associated with the invocation of the resource.,SE,dcai24
-The number of possible values defining the packet priority and by consequence the number of queues managed in the upstream direction shall be coherent with the number of concurrent services (data communication entertainment) to be treated and supported.,PE,dcai24
-SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall verify that each party maintains a separate sequence number counter for each association it uses to send messages.,SE,dcai24
-The GUI will have a chat window displaying questions sent to the system and responses from the API.,FR,dcai24
-Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.,FR,promise_exp
-All organisations connecting to the EHRi must subject potential users of POS systems that connect to the EHRi to a formal user registration process.,SE,dcai24
-"i) further reduced (by adding specific safeguards to the system or scaling back system functionality),",SE,dcai24
-'The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.',FR,NICE
-The customer environment (CNG and/or CNDs) should support a mechanism to allow service roaming,O,dcai24
-'If the shot was marked as a miss the product shall change the status of the offensive player to defensive',FR,NICE
-The system will provide a 24 hour 800 toll free number for support to its customers.,A,promise_exp
-The audit report shall be displayed to the user.,FR,promise_exp
-The system must be available for use between 7:00AM and 11:59PM all days of the year.,A,promise_exp
-Return to List is available if the patient loaded is not correct.,FR,promise_exp
-"-privacy, security and business continuity risks must be analysed by means of a Threat and Risk Assessment (see section 5.2) and those risks must be managed against the objectives set by the security policy;",SE,dcai24
-Unload and currency exchange transactions are optional for CEP card issuers. The CEP card must indicate whether the card issuer supports these transactions. However if a card issuer issues multi-currency capable cards it must provide its cardholder with a facility to remove any remaining value. As a result if a card issuer supports loading of multiple currencies onto a card then it must support the unload or currency exchange transaction or both,LF,dcai24
-'The Disputes System shall provide view access capability for authorized users of the application.',SE,NICE
-Ability for the data center admin to provide pre-emptive e-mail content filtering.,SE,dcai24
-'PME Subsystem shall allow keeping submenus within menus and products within submenus in a managed and persisted order.',LF,NICE
-"Such patients or persons have a right to know what uses and disclosures, in particular, are mandated by law, such as for mandatory reporting of infectious diseases or suspected child abuse or for law enforcement.",SE,dcai24
-For each shot  the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.,FR,promise_exp
-If a user account is revoked it can only be re-instantiated by the System Administrator.,SE,dcai24
-User authentication and privileges are defined outside the scope of the sytem by the Microsoft Active Directroy Server.,SE,promise_exp
-'The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.',FR,NICE
-All users of the system shall login using some form of unique identification.,SE,promise_exp
-The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.,A,promise_exp
-Update Page with link to sites nearby,FR,dcai24
-When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user\92s connection.),PE,promise_exp
-All additions of new users and modifications to user\92s access shall be recorded on the User Report.,SE,promise_exp
-The system should log a user off a particular workstation if the user logs on to another workstation.,SE,dcai24
-'Each page shall contain a similar format with action items in one location and navigation buttons in a different location.',LF,NICE
-'The product shall comply with insurance regulations regarding claims processing.',L,NICE
-'The Disputes application must maintain a detailed history of every action that a user takes on a dispute case. This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.',L,NICE
-The system shall allow the user to view past attended meetings.,FR,promise_exp
-CPN should support user generated content (UGC) using an NGN service.,FR,dcai24
-The administrator can add vertices of a path which is used in the route planner.,FR,dcai24
-The product shall display the grids within a circle as a view from a periscope.,LF,promise_exp
-The system shall provide a way to capture the mined goals information from the P3P policy into a database corresponding to a P3P privacy policy.,SE,dcai24
-The system shall allow the user to view their schedule.,FR,promise_exp
-"Mobile application - Navigation to restaurant DESC: A user should be able to select a pin on a map or an element on a list. When a selection is made, the location of the restaurant should be sent to the mobile phoneÃ¢â‚¬â„¢s GPS-navigation program. The user should then be navigated to the destination. When the destination is reached, a user should be able to go back to the search page on the mobile application.",FR,dcai24
-'The system shall be able to display a printable summary for individual nursing students which will include (but not be limited to) student name student ID admission date classes credits GPA and the cohort that the student is enrolled in.',FR,NICE
-When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.,PE,promise_exp
-If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30,US,promise_exp
-'The product shall able to handle a large number of games simultaneously.',PE,NICE
-NPAC SMS shall provide postâ€‘collection audit analysis tools that can produce detailed reports on data items relating to system intrusions.,SE,dcai24
-The message board shall contain the 5 most recently posted messages on the league page. The messages will contain up to the first 150 characters of the message.,LF,promise_exp
-The system must comply with the requirements for user privacy and confidentiality.,SE,dcai24
-The website will use standard Internet conventions when interacting with the user.,US,promise_exp
-The product shall interface with the Choice Parts System. This provides the feed of recycled parts data.,O,dcai24
-The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.,A,promise_exp
-The system shall display tentative duration for shipping.,FR,promise_exp
-It is important to note that this requirement would likely necessitate the implementation of robust authentication technologies:,SE,dcai24
-'The product shall use symbols and words that are naturally understandable by users familiar with websites',LF,NICE
-These requirements will greatly assist in operationalizing the limitation of use and disclosure of this PH to authorized users with appropriate roles and privileges.,SE,dcai24
-"NPAC SMS shall not support any mode of entry into NPAC SMS for maintenance, support, or operations that would violate or bypass any security procedures.",SE,dcai24
-Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.,US,promise_exp
-The system shall be compatible with IIS6.0 and above or  Apache 2.0 and above.,PO,promise_exp
-The Disputes application shall interface with the Cardmember Posting and Billing System. This will allow the Disputes application to request adjustments to cardmember and merchant\92s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.,O,dcai24
-'Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.',SE,NICE
-Action must be taken by the user to prevent the user account from being compromised.,SE,dcai24
-"The system shall be able to generate a backup copy of the application data, security credentials, and log or audit files.",SE,dcai24
-'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.',SE,NICE
-The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.,O,promise_exp
-NPAC SMS shall change the key used between the NPAC SMS and Service Provider after one year of usage.,SE,dcai24
-3) The system shall provide audit capabilities indicating the time stamp for an object or data creation.,SE,dcai24
-The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information; the dispute case number the type of chargeback requested (pending or immediate) and the date that the merchant response is due.,FR,dcai24
-ABS shall handle all expected and unexpected errors in ways that prevent loss in information and long downtime period.,FT,promise_exp
-Contact with the vendors and give permission to sell their product under the site after testing the product's quality.,FR,promise_exp
-"Any infringements or violations including but not limited to: unauthorized use, harassment, exploitation of any gaps in the portal, inflammatory/derogatory content, or defacing the system will result in the appropriate authorities being notified.",SE,dcai24
-It is possible to close calendar view.,FR,dcai24
-'The system shall filter data by: Venues and Key Events.',FR,NICE
-The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.,PE,promise_exp
-The password does not need to be unique.,SE,dcai24
-Movies shall be encoded for 56k and 256k streams.,O,promise_exp
-For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.,FR,promise_exp
-"NLM System Administration/Programming Access: Provides an NLM Administrative/Programming Level, ultimate rights to the system, required for its management, development, and for assigning appropriate rights to users.",SE,dcai24
-The system must provide the ability to store and retrieve user record data.,SE,dcai24
-'The Disputes System shall accurately provide a list of possible reason codes for a given transaction. The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to according to the business rules defined for the Disputes System.',L,NICE
-The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications,PE,promise_exp
-Delete/Inactivate an existing user Given the administrator is logged in When the administrator deletes an existing user Then the user should be deleted,FR,dcai24
-The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds,PE,promise_exp
-'The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.',SE,NICE
-"when user clicks on link to map sites from the home page, application should respond with a campus map with all the historical sites placed on it",FR,dcai24
-'100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.',SC,NICE
-The system should interoperate with systems that use different versions of a terminology standard.,SE,dcai24
-The system must manage structured documents.,SE,dcai24
-The Disputes System shall accurately provide a list of possible reason codes for a given transaction.  The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to  according to the business rules defined for the Disputes System.,FR,promise_exp
-The audit report shall include the percentage of available recycled parts used in the estimate ,FR,promise_exp
-"For example, Albertaï¿½s health information legislation requires a custodian that discloses PHI to make a note of the name of the person to whom the custodian disclosed the information; the date and purpose of the disclosure; and a description of the information disclosed.",SE,dcai24
-The product must work with most database management systems (DBMS) on the market whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.,O,dcai24
-'Formula substitutionary ingredients shall be kept in persisted order',FR,NICE
-The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohort\92s program of study and changes to a given week\92s schedule (lab cancelled this week due to instructor illness).,FR,promise_exp
-"For totally unstructured information, AI libraries will be used to programmatically extract and store any information possible",FR,dcai24
-"2) VLER DAS sends a list of available exam results filtered by Physician Name and Date Range to the consuming application (first pass) for the following allowed configurations: a. Last Name, Date Range; b. Last Name, First Name, Date Range; c. Last Name, First Name, Middle Name, Date Range;",SE,dcai24
-'The product shall record updated meeting agendas.',FR,NICE
-'The recycled parts search results provided to the estimator shall be retrieved by the system.',FR,NICE
-"Description: To reduce medication errors at the time of administration of a medication, the patient is positively identified; checks on the drug, the dose, the route and the time are facilitated.",SE,dcai24
-User for permission to use the location service .,FR,dcai24
-The terminal must generate a symmetric MACing key signature and send it to the merchant acquirer,SE,dcai24
-"STEWARDS will follow industry best practices for authentication, using single-sign-on systems like Microsoft Active Directory to perform authentication.",SE,dcai24
-System administrative staff has full visibility and control of user privileges.,SE,dcai24
-System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.,FR,dcai24
-The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions.  The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.,FR,promise_exp
-'The website shall be attractive to all audiences. The website shall appear to be fun and the colors should be bright and vibrant.',LF,NICE
-The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.,FR,promise_exp
-'The product shall be capable of handling up to 1 000 concurrent requests. This number will increase to 2 000 by Release 2. The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.',SC,NICE
-The system shall offer a display of all the Events in the exercise.,FR,promise_exp
-check if user is within 1 mile of the campus,FR,dcai24
-The to-location can be selected on the map.,FR,dcai24
-Adding information with mandatory fields Given the restaurant owner has filled in the mandatory fields of the form When the restaurant owner submits the form Then the information about the restaurant should be added,FR,dcai24
-The product shall provide Portals.The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators),US,promise_exp
-NPAC SMS shall provide a mechanism to restrict user login based on user system location.,SE,dcai24
-'The Disputes applications shall interface with the Merchant Information Database. The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.',O,NICE
-On reception at the CNG of a message to access or update configuration information the CNG shall allow access only if the sender is an administrator.,SE,dcai24
-The system shall provide use of icons and toolbars.,US,promise_exp
-The card issuer generates S2 which is sent to the card to allow the card to validate the card issuerÂƒ??s authenticity and to ensure that the data used by the card in the transaction is the same as the card issuer intended,SE,dcai24
-The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.,MN,promise_exp
-'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.',FR,NICE
-"This state shall include the restoration of the application data, security credentials, and log or audit files to their previous state.",SE,dcai24
-'The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.',A,NICE
-'Once a game is initiated the product shall display an offensive grid to each player.',FR,NICE
-Ability for the data center admin to block or allow e-mail based on multiple message attributes.,SE,dcai24
-The system must support standards-based encryption mechanisms for secure data exchange.,SE,dcai24
-A user can then select the product and view the details.,FR,dcai24
-A CPN user shall be able to configure any unmanaged service provided to the user.,FR,dcai24
-The product shall comply with the estimatics laws relating to recycled parts usage.,L,promise_exp
-'The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.',PE,NICE
-The System shall allow generation of Inventory Quantity Adjustment documents on demand.,FR,promise_exp
-The CND directly or through the CNG must be able to access to Network Configuration Service Function without involving any user interaction.,FR,dcai24
-"The administrator can unlink a POI from a certain building, floor and room.",FR,dcai24
-When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.,LF,dcai24
-The system shall display detailed product categorization to the user.,FR,promise_exp
-'The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.',LF,NICE
-Each Trusted Framework present on the card shall Ensure that incoming messages are properly routed unaltered to their intended destinations,SE,dcai24
-"System should be able to display "" No results found "" in case no search results found",FR,dcai24
-Users shall be able to reach the \91add\92 \91drop\92 and \91trade player\92 pages with one click from the team owner\92s page.,US,dcai24
-The product shall allow for customization of start page and views preferences.,US,promise_exp
-The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.,PE,promise_exp
-Internally to the CPN a CNG transmitting private or other critical information (i.e. to a CND) shall protect the data from unauthorised disclosure.,SE,dcai24
-The system restore functionality shall result in a fully operational and secure state.,SE,dcai24
-'Only registered customers can purchase streaming movies.',SE,NICE
-'All credit card information will be encrypted in the database.',SE,NICE
-The product shall be able to be installed in the specified environment within 1 working day.,O,promise_exp
-Application should replace the siteâ€™s description with the clicked on image description,FR,dcai24
-The system shall display detailed information of the selected products.,FR,promise_exp
-"Description: To ensure the accuracy of specimen collection, the patient and specimen are positively identified.",SE,dcai24
-Personal information security is defined outside the scope of the SDMS by the database server.,SE,promise_exp
-The user interface shall have standard menus buttons for navigation,LF,promise_exp
-"To satisfy this legal requirement, healthcare organisations must identify the purposes for which they collect, use and disclose a patient or personï¿½s PHI.",SE,dcai24
-The product will be available for licensing as a one-server two-five servers or five-or-more servers license.,O,dcai24
-100% of saved user preferences shall be restored when system comes back online.,FT,promise_exp
-The to-location can be searched by the name of a building.,FR,dcai24
-The meeting scheduler system shall be able to select a participant as an important participant.,FR,promise_exp
-'For each shot the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.',FR,NICE
-The product shall be capable of handling up to 1 000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.,SC,promise_exp
-shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.,FR,dcai24
-The system shall be capable of authorizing access to Pontis functionalities depending on the userâ€™s privileges during log-in process.,SE,dcai24
-The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.,SE,promise_exp
-The capacity of the authorized entities should depend on the security policies defined by the service providers managing the CNG.,SE,dcai24
-Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site  including the clinical site name  site contact person  contact information  and address.,FR,promise_exp
-The system shall be able to display a menu at all times to facilitate manual order taking should the need arise.,LF,promise_exp
-"""Each Trusted Framework present on the card shall Enforce the Trusted Framework security rules for inter-application communication, including the rules, defined in appendix G,""",SE,dcai24
-'The estimator shall search for available recycled parts using a list of preferred parts suppliers.',FR,NICE
-The system will notify affected parties when changes occur affecting classes  including but not limited to class cancellations  class section detail changes  and changes to class offerings for a given quarter.,FR,promise_exp
-Other TU/e related Facebook-sites can be selected from a list (see for contents of list requirement UCAR803).,FR,dcai24
-The product shall run on the existing hardware for all environments.,O,promise_exp
-Nurses need patient-specific information to provide patient or family centered care.,SE,dcai24
-It will also require consistent policies and procedures for issuing digital certificates that meet the high standards of digital certificate issuance demanded of e-prescribing.,SE,dcai24
-If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100,US,promise_exp
-Sockets maintain the buffers between the underlying packet based communication primitives that directly access the network elements and the message based.,SE,dcai24
-The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.,O,promise_exp
-The diagnostic operations on the CPN by an operator shall be performed in accordance with rules protecting the users' privacy.,SE,dcai24
-When the student handbook-app is started the most searched items are shown on the title screen.,FR,dcai24
-The administrator can modify the list of TU/e related Facebook-sites.,FR,dcai24
-The product shall ensure that only supervisors can enter a caller\92s schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE,promise_exp
-'The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.',MN,NICE
-The system shall calculate tax for the order.,FR,promise_exp
-A tablet shall require a user to log in using a username and password.,SE,promise_exp
-"The system shall support ensuring the authenticity of remote nodes (mutual node authentication) when communicating Protected Health Information (PHI) over the Internet or other known open networks using an open protocol (e.g. TLS, SSL, IPSec, XML sig, S or MIME).",SE,dcai24
-A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.,FR,promise_exp
-Most of the system functions will be controlled using the administrative interface.,FR,promise_exp
-"Rationale: Effective termination of user access privileges is a minimum requirement but in the absence of single sign-on capabilities and shared authentication services, it is not always effectually handled.",SE,dcai24
-'98% of the user workstations shall meet the minimum hardware requirements prior to implementation. Minimum Hard Disk Space: 400MB.',O,NICE
-Enable the admin to generate reports which contains all the posts and their corresponding replies.,FR,promise_exp
-"The most detailed provisions are found in Manitobaï¿½s health information legislation, which require the trustee to ensure that PHI is maintained in a designated area or areas that is subject to appropriate security safeguards; and to limit physical access to designated areas to authorized persons.",SE,dcai24
-A GlobalPlatform card offers Entity authentication - in which the card or the off-card entity proves its authenticity to the other entity through a cryptographic exchange.,SE,dcai24
-The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.,PE,promise_exp
-The recycled parts search results provided to the estimator shall be retrieved by the system.,FR,promise_exp
-The OPEN shall Ensure that the Card Content changes are authorized by the Card Issuer,SE,dcai24
-"The system will need to accommodate: computer interface access, defining access for a specific individual user or group of users the ability to assign different levels of access to different individuals and groups of users, either in a pre-defined role or in an ad hoc assignment",SE,dcai24
-Rationale: An electronic health record environment should facilitate the achievement of better quality records by building in automatic checks on data entry and making it easier to update even the most basic demographic and location information on any patient or person.,SE,dcai24
-"Data that is especially hard to extract, for whatever reason, will be manually extracted and added to the database by a developer.",FR,dcai24
-The merchant acquirer validates the PSAMÂƒ??s MACs prior to accepting the POS transactions for payment. In addition selected data elements are validated to ensure correct processing by the POS device and its PSAM,SE,dcai24
-If a user account is revoked  it can only be re-instantiated by the System Administrator.,SE,promise_exp
-The system should permit local setting of application timeout.,SE,dcai24
-'When the hit results in sinking a ship the product shall indicate the type of ship sunk on the defensive grid of the defensive player.',FR,NICE
-The system shall support deriving access control elements.,SE,dcai24
-Once a game is initiated the product shall allow each player to position their 5 ships on their respective defensive grids.,FR,dcai24
-"Application should respond with the sites placed on a map with markers that includes name, description and link to site page.",FR,dcai24
-"Texts sent to that number will be sent to the API, then the system will reply to the user with the answer as another text message.",FR,dcai24
-NPAC SMS shall provide a mechanism to limit system entry for privileged NPAC SMS users on a specifiable network access.,SE,dcai24
-The meeting scheduler system may (optionally) automatically propose another meeting if current meeting is canceled by an important participant.,FR,promise_exp
-The application should be easy to extend. The code should be written in a way that it favors implementation of new functions.,MN,promise_exp
-'If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.',FR,NICE
-SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall apply the digital signature algorithm to the fields specified below without any separators between those fields or any other additional characters.,SE,dcai24
-"NPAC SMS shall provide a mechanism to restrict user login based on time-of-day, dayâ€‘ofâ€‘week, and calendar date.",SE,dcai24
-The system shall validate the amount is available in the user’s account before releasing funds to the user.,FR,dcai24
-NPAC SMS shall have for every process running an associated userId of the invoking user (or the userId associated with the invoking process).,SE,dcai24
-'90% of untrained realtors shall be able to install the product on their device without printed instructions',US,NICE
-'The user shall select to view the preferred repair facility ratings.',FR,NICE
-The system shall allow users to view other users' information.,FR,promise_exp
-All organisations hosting components of the EHRi or connecting to the EHRi must ensure that privacy education and training and regular updates in organisational privacy policies and procedures are provided to each permanent or temporary employee or third-party contractor who is a registered user of a POS connected to the EHRi or who has access to hosted components of the EHRi.,SE,dcai24
-NPAC SMS shall default the Non-use Disconnect tunable parameter to 60 minutes.,SE,dcai24
-"a) inform a patient or person of the existence, use and disclosure60 of his or her PHI and shall give the patient or person direct access to that PHI where such access is not prohibited by legislation;61",SE,dcai24
-We must be able to interface with the following browsers,O,dcai24
-NPAC SMS shall provide postâ€‘collection audit analysis tools that can produce summary reports on communication failures relating to system intrusions.,SE,dcai24
-A secondary database will be used to store historical statistics and data.,O,promise_exp
-"The DigitalHome web system shall provide for authentication and information encryption through a recognized reliable and effective security technology, such as Transport Layer Security.",SE,dcai24
-5)ensure the safeguarding of information in networks and the protection of the supporting infrastructure;,SE,dcai24
- The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday \96 Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST,O,promise_exp
-"Technical Framework for Access Control Standard as security relevant properties of the context in which an access request occurs, explicitly time, location, route of access, and quality of authentication.",SE,dcai24
-Both IMS capable devices with or without UICC and non-IMS capable devices without UICC shall be supported.,FR,dcai24
-For the CNG management it is recommended to use a single protocol so as to minimize the complexity and the cost of the service.,MN,dcai24
-The product shall be easy to use by Adjusters and Collision Estimators. 95% of Adjusters and Collision Estimators shall find the product easy to use.,US,dcai24
-When the hit results in sinking a ship the product shall notify the players that the ship was sunk.,FR,dcai24
-The application has a map view in satellite style.,FR,dcai24
-Functionalities related to Electronic Programming Guide and DRM management shall be implemented in STB or media gateway and not in CNG.,FR,dcai24
-"The system shall support protection of confidentiality of all Protected Health Information (PHI) delivered over the Internet or other known open networks via encryption using triple-DES (3DES) or the Advanced Encryption Standard (AES) and an open protocol such as TLS, SSL, IPSec, XML encryptions, or S or MIME or their successors.",SE,dcai24
-Authorized users shall be able to access NGN-based services using any NGN supported home device.,FR,dcai24
-Accepted input for price and destination search DESC: Integers should be accepted as input when a user searches by price or destination. If the system receives an invalid input the user should be informed and prompted to insert an accepted input.,FR,dcai24
-Each team owner will need to use a username and password in order to be authenticated to reach the team owner's page',SE,NICE
-Responsible for informing administrator when any product item’s stock goes under the minimum level.,FR,dcai24
-"All users should be able to navigate using the sub navigation icons to access the Catalogue PDF, 360 videos, and to contact a rep representative",FR,dcai24
-The system shall allow the initiator to view the information of any meetings which they initiated.,FR,promise_exp
-"Retrieve password DESC: Given that a user has registered, then the user should be able to retrieve his/her password by e-mail.",FR,dcai24
-The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.,US,promise_exp
-When a game is ended the product shall notify the players that the game is ended.,FR,dcai24
-'All screens created as part of the Disputes application must comply with corporate standards for interface creation.',L,NICE
-Only authorized users shall have access to clinical site information.,SE,promise_exp
-The product shall have a consistent color scheme and fonts.,LF,promise_exp
-NPAC SMS shall identify the originator of any accessible system resources.,SE,dcai24
-Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.,PE,promise_exp
-'Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.',FR,NICE
-The CND/CNG shall support a mechanism allowing the user to manually modify the association between a public identity (e.g. phone number) and a specific private identity corresponding to a single customer device not provided with a UICC and corresponding also to legal service level agreements between the user and the service provider.,FR,dcai24
-The product shall allow the user to view previously downloaded search results CMA reports  and appointments.,FT,promise_exp
-The Disputes application must maintain a detailed history of every action that a user takes on a dispute case. This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.,L,dcai24
-"c)have rules governing the acceptable use of these assets that are identified, documented, and put into practice.",SE,dcai24
-'Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.',SE,NICE
-The adjuster shall enter the preferred repair facility on the estimate assignment.,FR,promise_exp
-'The product shall be able to store new room equipment.',FR,NICE
-Any time a template is used the user shall get their own full private copy of the data.,SE,dcai24
-This is of greatest concern when data are being changed or updated.,SE,dcai24
-'All authorized users once authenticated must be able to logon to the Disputes System',SE,NICE
-The EHRi must provide functions for analyzing logs and audit trails to allow the identification of all users who have accessed or modified such record(s) over a given period of time.,SE,dcai24
-100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.,US,promise_exp
-The system must provide the ability to update terminology standards.,SE,dcai24
-The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.,US,promise_exp
-All login actions shall be protected by using secure data channels.,SE,dcai24
-'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications',LF,NICE
-The system shall display the current tracking information about the order.,FR,promise_exp
-The interface must summarize the data in a fashion that\92s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface,LF,promise_exp
-The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user s computer.,SE,dcai24
-Every registered user will have access to the product\92s support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,US,promise_exp
-The from-location is selected from the search result described in UCAR211 and UCAR212.,FR,dcai24
-A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.,FR,promise_exp
-All streaming movie sales will be logged in the database  and accessible by the administrator.,FR,promise_exp
-The system's back-end databases shall be encrypted.,SE,promise_exp
-Every registered user will have access to the product's support site via the Internet. 70% of registered users shall find a solution to their problem within 5 minutes of using the support site.',LF,NICE
-The load device also provides for verification of the identity of the cardholder (with either on-line or off-line PIN verification) and forwards verification data in the authorization request.,SE,dcai24
-Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section  including the clinical site name the department/section for the lab  the class instructor day and time of lab and contact information.,FR,promise_exp
-When a game is ended the product shall allow each player to remove himself or herself from the list of players.,FR,dcai24
-The system should keep the customer contact number.,FR,promise_exp
-The administrator shall have the ability to edit a userâ€™s system access properties.,SE,dcai24
-Objects in the repository are accessible for computational use/machine accessibility such as data mining or automated document retrieval.,SE,dcai24
-The CND shall be able to download and install client application services.,FR,dcai24
-The product shall retain the customer s buying preferences and information.,US,dcai24
-The product shall maintain the status of each player for a turn  either offensive or defensive.,FR,promise_exp
-LAN interfaces. The CNG shall be equipped with at least one Ethernet (minimum 100 Mbit/s) is interface. Optional interfaces could be present e.g.: wireless LAN Wi-Fi Alliance certified Powerlines Plastic Optical Fiber USB device and/or host one or more FXS for analog telephony DECT Cat-iq.,FR,dcai24
-"-architecting, implementing and monitoring an enterprise wide information security program ensuring the confidentiality, integrity, and availability of information and the integrity and availability of systems;",SE,dcai24
-Audit logging must be sufficient in detail to facilitate reconstruction of events if a compromise or malfunction is suspected or has occurred.,SE,dcai24
-The system could track user information over time.,SE,dcai24
-The language can only be selected in the main app.,FR,dcai24
-The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.,FR,promise_exp
-The response time of the system should be 2 seconds at most.,FR,dcai24
-'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.',PE,NICE
-Each entry is shown in full.,FR,promise_exp
-'The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.',MN,NICE
-The software is available for use from the supermarket opening time to the closing time.,A,promise_exp
-'The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.',L,NICE
-Organisations connecting to the EHRi or hosting components of the EHRi must have the implementation of their information security policy either: a) reviewed independently; or b) attested to in a written declaration by the organisationï¿½s chief executive officer or board of directors.,SE,dcai24
-'The product shall allow a player to initiate a game by selecting another available player from the list of players.',FR,NICE
-"NPAC SMS shall ensure that generated passwords are ""reasonably"" resistant to bruteâ€‘force password guessing attacks.",SE,dcai24
-Retrieve password Given the restaurant owner wants to log in And has lost the password When the restaurant owner enters his/her email address in the Ã¢â‚¬Å“Retrieve passwordÃ¢â‚¬Â_x009d_ form And submits the form Then the restaurant owner should receive an email containing the password,FR,dcai24
-'The product shall record the transportation status of equipment reserved.',FR,NICE
-It should generate a report about registered complaint to the admin and response report to the user who has submitted his queries.,FR,promise_exp
-If the leads score falls within the high average score then it will be process by the ARA functionality.,FR,promise_exp
-The PSAM either retrieves or re-derives the DES session key used for the purchase transaction being cancelled. The POS device authenticates the CEP card using this key and the S1 MAC,SE,dcai24
-The system shall operate within the Windows XP Professional operating system.,O,promise_exp
-The product shall allow the player to position ships vertically on their grid.,FR,promise_exp
-Typically a general user is only permitted to view the results of diagnostic processing either current or historical.,SE,dcai24
-The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training,US,promise_exp
-Ability for the data center admin to recover a specific e-mail message.,SE,dcai24
-An essential step in mitigating risks associated with information systems such as the EHRi is to perform a threat and risk assessment.,SE,dcai24
-SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall support detection of message deletion.,SE,dcai24
-The realtor shall be notified of new client appointments after automatic synchronization with office system,FR,promise_exp
-1) The system shall conform to function IN.1.1 (Entity Authentication) to provide authentication capabilities.,SE,dcai24
-"3) The system shall provide EHR-S security administrators with the ability to grant authorizations to principals according to scope of practice, organizational policy, or jurisdictional law.",SE,dcai24
-"VLER DAS stores the â€˜Transaction Typeâ€™ (description of action, e.g., Retrieve) , when available, in an audit log.",SE,dcai24
-System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.,PE,promise_exp
-The Disputes System must provide Search functionality.  The search method must include the ability to search by (1) the dispute case number  (2) the merchant account number  (3) the cardmember account number and (4) the issuer number.  In addition to the above criteria  the search functionality must further allow the user to limit the results of the search by a date range  the type of dispute (ticket retrieval request or chargeback notification)  the case status (open  closed or all) and the dispute reason code.,FR,promise_exp
-"Statement: Limit an EHR-S userâ€™s ability to deny (repudiate) the origination, receipt, or authorization of a data exchange by that user.",SE,dcai24
-All users of the Backend System must be uniquely identified.,SE,dcai24
-It is possible to navigate from a POI on the campus to a building on the campus.,FR,dcai24
-It is possible to open calendar view.,FR,dcai24
-NPAC SMS shall default the time interval to restart the login process to 60 seconds.,SE,dcai24
-NPAC SMS NMS shall use SNMP to monitor the system resources.,SE,dcai24
-All organisations hosting components of the EHRi must control changes to information processing facilities and systems that support the EHRi by means of a formal and structured change control process to ensure the appropriate control of host applications and systems.,SE,dcai24
-Share one or more MAC keys with connecting processors create a MAC on each transmission sent to another processor and verify the MAC on each transmission received from another processor,SE,dcai24
-2) The system shall conform to function IN.1.1 (Entity Authentication).,SE,dcai24
-The audit report shall include the total number of recycled parts used in the estimate.,FR,promise_exp
-Audit log review can be greatly aided by software such as intrusion detection systems that look for unusual patterns of use and facilitate exception reporting.,SE,dcai24
-Terms of Employment involving maintaining confidentiality should survive employment termination (see provisions for confidentiality agreements in Security Requirement 15).,SE,dcai24
-NPAC SMS shall ensure that NPAC audit capability cannot be disabled.,SE,dcai24
-A system administrator shall have unrestricted access to all aspects of the system.,SE,dcai24
-It is possible to Ã¢â‚¬Å“tweetÃ¢â‚¬Â_x009d_ a certain news item.,FR,dcai24
-The password shall contain 6 to 8 alphanumeric characters.,SE,dcai24
-"The Personnel Security Level entity stores information about the five attributes used to restrict access to the RLCS: Command Level, Device, Mode, Workstation, and System Functions.",SE,dcai24
-"when user clicks on links to browse sites from home page, the system should respond with a list of links to all the sites by A-Z, sorted on site name",FR,dcai24
-The system shall allow user to choose filling that they want.,FR,promise_exp
-The system shall refresh the display every 60 seconds.,PE,promise_exp
-The product shall synchronize contacts and appointments in an acceptable time.,PE,promise_exp
-100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.,US,promise_exp
-The client should agree to EULA before using our software.,L,promise_exp
-Ability for the data center admin to provide message hygiene (antispam/antivirus) statistical reports.,SE,dcai24
-The product shall ensure that only supervisors can enter a caller's schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.',SE,NICE
-"An error during this process means there was a problem parsing the sentence and creating the generic question. In this case, return a message such as Ã¢â‚¬Å“Sorry, I didnÃ¢â‚¬â„¢t understand that.Ã¢â‚¬Â_x009d_",FR,dcai24
-The system shall prevent the user from changing object/project values once that project has been used in a model run.,SE,dcai24
-'Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.',MN,NICE
-The product shall ensure that the database s data corresponds to the data entered by the user. Each conference room reservation in the system will contain the same information as was entered by the user.,SE,dcai24
-"Based on the userâ€™s security level, the control option shall provide the user with the appropriate level of control.",SE,dcai24
-NPAC SMS shall only allow the NPAC Security Administrator to authorize users.,SE,dcai24
-"As the Business Owner, I want the Virtual Lifetime Electronic Record (VLER) Data Access Services (DAS) to log all requests or responses that it receives or sends in relation to storage of an exam result so that VLER DAS is in compliance with Department of Veterans Affairs (VA) system auditing requirements and can assist with troubleshooting.",SE,dcai24
-'The product shall be available 24 hours per day seven days per week.',A,NICE
-Identifying and (where appropriate) protectively labelling information assets as confidential can be an important tool in staff training and awareness.,SE,dcai24
-the user notifies other user that the shipment of the item has started.,FR,dcai24
-'When both players have positioned their 5 ships on their defensive grids the product shall define the status of each player for the first turn.',FR,NICE
-The product shall record meeting entries.,FR,promise_exp
-The RFS system should be able to easily interface with the BDW environment  in order to load the data. \95	7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. The data will be as of October month-end. 	Test files (7) shall be loaded up to 5 times throughout the year  from the BDW.,O,promise_exp
-"All organisations connecting to the EHRi or hosting components of the EHRi should document in job definitions the security roles and responsibilities of staff who are registered users of healthcare applications accessible via the EHRi, as laid down in the organisationï¿½s information security policy.",SE,dcai24
-The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user's access level. The report will be reviewed for auditing purposes.',FR,NICE
-For cancel last purchase transactions the terminal must validate the card and sign the cancellation,SE,dcai24
-"The software used to install and update the system, independent of the mode or method of conveyance, shall be certified free of malevolent software ('malware').",SE,dcai24
-The system shall display confirmation messages to users within 4 seconds after the user submits information to the system.,PE,promise_exp
-The system must protect user identities from other users.,SE,dcai24
-The system shall flag tablets that fail to send timely keep-alive messages as non-operational and disassociate the assigned waiter from the tablet.,FT,promise_exp
-The system shall protect private information in accordance with the organization s information policy.,SE,dcai24
-Reject a restaurant owner Given the administrator is logged in When the administrator rejects a restaurant owner Then the restaurant owner should not be able to log in And the restaurant owner should be notified by a rejection email,FR,dcai24
-All applications under the GlobalPlatform shall be implemented in a hardware-neutral secure runtime environment,SE,dcai24
-In the case of a reversal the CEP card must re-authenticate the PSAM,SE,dcai24
-"Not all Gatekeeper account holders will have access to the GridBGC system, Users must be approved by the GridBGC administrator(s) for access.",SE,dcai24
-The system should maintain correct schedules of labs and the documentation of all the lab equipment.,FR,promise_exp
-Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.,SE,promise_exp
-The system must provide the ability to maintain varying levels of confidentiality.,SE,dcai24
-The main menu contains a launcher to the Map-app.3.1.3,FR,dcai24
-Nurses need to ensure the patient's privacy and security of EHR data is protected.,SE,dcai24
-No personal data about a user is stored.,FR,dcai24
-'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.',FR,NICE
-'Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.',FR,NICE
-The meeting scheduler system may be able to include a list of required equipment for a meeting proposal.,FR,promise_exp
-For each shot  the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.,FR,promise_exp
-A search described in requirements UCAR501 and UCAR502 results in a displayed set of employees that match the search input.,FR,dcai24
-NPAC SMS shall maintain internally the identity of all NPAC and Service Provider personnel logged on to the NPAC SMS.,SE,dcai24
-For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process  a case activity will be generated.  Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.,FR,promise_exp
-NPAC SMS shall write a record to the security audit log for unauthorized NPAC SMS transaction functionality access attempts.,SE,dcai24
-Responsible for managing stocks of each product items.,FR,promise_exp
-System will use secured database.,SE,promise_exp
-The Disputes application shall ensure that only authorized users are allowed to logon to the application.,SE,promise_exp
-"The system upon detection of inactivity of an interactive session shall prevent further viewing and access to the system by that session by terminating the session, or by initiating a session lock that remains in effect until the user reestablishes access using appropriate identification and authentication procedures.",SE,dcai24
-On a 56k connection  the system response time for all operations must be no more than 6 seconds 90% of the time.,PE,promise_exp
-The System shall granularly control access rights to all major subsystems.  It should be possible to assign access rights to all subsystems independently.,SE,promise_exp
-Media flows (data plane) transcoding shall be performed by STB or media gateway and not by the CNG.,FR,dcai24
-"If the system could not find appropriate website associated with the question, the system will return a generic error message such as Ã¢â‚¬Å“Sorry, I couldnÃ¢â‚¬â„¢t find an answer to that.Ã¢â‚¬Â_x009d_",FR,dcai24
-Each team owner will need to use a username and password in order to be authenticated to reach the team owner\92s page,SE,promise_exp
-The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.,A,promise_exp
-"If command control is enabled by another user, and the logging in user is of higher security, the logging in user shall be requested to accept or deny command control.",SE,dcai24
-The system shall allow user to update the profile information.,FR,promise_exp
-The server will support a maximum of 1 000 simultaneous users.,SC,promise_exp
-The website is available whenever the users want to use it.,A,promise_exp
-"NLM Staff Metadata Access: Provides an NLM Staff Level allowing access to staff to add or edit descriptive metadata (without changing the files themselves) for production and work related needs such as cataloging, indexing and modifying metadata.",SE,dcai24
-Patrons shall log in according to the restricted computer system access policy.,SE,promise_exp
-NPAC SMS shall generate a paper list to each Service Provider of the MD5 hashes of all the public keys used by a Service Provider once a month.,SE,dcai24
-'Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.',US,NICE
-'The leads washing functionality will validate all leads received by the web service for valid data',FR,NICE
-The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a student\92s status from full time to part time and moving a student to a different clinical section.,FR,promise_exp
-'Promotional updates to the website should take a day to update.',MN,NICE
-The system must use interchange agreement standards when exchanging information with partners.,SE,dcai24
-Ability for the data center admin to recover at the file level.,SE,dcai24
-The system allows for the backup of the data system to local or remote non-volatile storage systems. Incremental backups should not create outages and full backups do not interfere with user interaction for more than 10 minutes. Priority 1,SE,dcai24
-'For leads that process longer than 25 seconds the system will record the event and duration',FR,NICE
-Perform the calculation required to generate a signature using the PSAMƒ??s private RSA key to allow the CEP card to validate the PSAM,SE,dcai24
-The product shall display each type of ship in a grid using an image of the specific type of ship.,LF,promise_exp
-a) put easily accessible and simple-to-use procedures in place to receive and respond to complaints or inquiries about their policies and practices relating to the handling of PHI;,SE,dcai24
-"Access rights and conditions can be assigned to an object on an individual basis, or on a group of identified objects at one time.",SE,dcai24
-The system shall be used by realtors with no training.,US,promise_exp
-When a game is ended  the product shall notify the players that the game is ended.,FR,promise_exp
-When applicable a Security Domain shall Verify the load file data block signature when requested by the OPEN.,SE,dcai24
- The system shall allow the user to modify the location preference set of an already submitted meeting response.,FR,promise_exp
-The user can select a topic from the search result list.,FR,dcai24
-The system shall use secure sockets in all transactions that include any confidential customer information.,SE,promise_exp
-'For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process a case activity will be generated. Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.',FR,NICE
-'Only valid data shall be entered into the system. No invalid data shall be entered into the system.',SE,NICE
-'The system shall link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.',MN,NICE
-"For example, note that under the Alberta Health Information Act, a health information custodian that discloses PHI must make a note of the name of the person to whom the custodian disclosed the information; the date and purpose of the disclosure; and a description of the information disclosed.",SE,dcai24
-Implementations of Privacy and security must be on par with industry standards.,SE,dcai24
-The RMS System shall have Windows XP look and feel and use GUI futures making its use intuitive.,FR,promise_exp
-NPAC SMS shall allow access to authorized remote systems.,SE,dcai24
-The system should provide the ability to record and report audit information using a standards-based audit record format.,SE,dcai24
-The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies. Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.,US,dcai24
-Usage of the information link DESC: The information link should be prominent and it should be evident that it is a usable link. Selecting the information link should only take one click.,FR,dcai24
-The system shall provide a way to capture the mined goals information from the userâ€™s privacy preferences into a database corresponding to the userâ€™s privacy preferences.,SE,dcai24
-NPAC SMS shall ensure that only authorized users can access the transactions that constitute the NPAC SMS.,SE,dcai24
-'The application shall ask the user to confirm dropping a player or trading a player before performing the action.',FR,NICE
-A clinical lab section shall include the clinical site name the class instructor day and time of the lab.,FR,dcai24
-b) must be capable of merging two or more EHR records if it is determined that multiple records for the same patient or person have been unintentionally created.,SE,dcai24
-'The Disputes System must provide the ability to view existing dispute cases.',FR,NICE
-Mobile application - No match found DESC: If no match is found the user should be informed but kept on the search page in order to get the possibility to conduct a new search right away.,FR,dcai24
-'The product shall generate a CMA report in an acceptable time.',PE,NICE
-The product shall continue to operate during upgrade  change or new resource addition.The product shall be able to continue to operate with no interruption in service due to new resource additions.,MN,promise_exp
-Only the System Administrator shall be able to reset a revoked user logon account,SE,promise_exp
-'The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.',FT,NICE
-The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.,SC,promise_exp
-"To log onto the system, a user provides their valid username and password.",SE,dcai24
-The CAS shall have a quality manager security group.,SE,dcai24
-'The system shall resolve the zipcode for the street address city and state if zipcode is unknown.',FR,NICE
-"the user can mark an item as a favorite so that he will be notified if any change
- is made to the item",FR,dcai24
-"Usage of the search feature DESC: The different search options should be evident, simple and easy to understand.",FR,dcai24
-The response shall be fast enough to avoid interrupting the user\92s flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.,PE,promise_exp
-The EHRi must be capable of identifying all patients or persons whose records have been accessed or modified by a given user over a given period of time.,SE,dcai24
-Successful log-in Given the restaurant owner wants to log in When the restaurant owner logs in with his/her account Then the restaurant owner should be logged in as a restaurant owner,FR,dcai24
-"User security levels shall be assigned at the command level, device, mode, workstation, and system function.",SE,dcai24
-The product shall allow an organizer to invite other employees to meetings.,FR,promise_exp
-The system should provide the ability to support CCOW standards for application integration.,SE,dcai24
-"user can add the items he/she likes to his cart by touching â€œAdd to the cartâ€_x009d_
- button.",FR,dcai24
-The system must provide authorization capabilities.,SE,dcai24
-The system shall give the mediator privileges to schedule location and equipment resources.,FR,promise_exp
-The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.,SC,promise_exp
-All transactions at the Flea Market require a valid user ID and password.,SE,promise_exp
-The interface shall be appealing to callers and supervisors. In the interface and usability survey 80% of beta testers must report that the interface is appealing.',LF,NICE
-It is possible to search the book by a certain word or phrase.,FR,dcai24
-A few authorized individuals may be allowed access to parts of the system that are usually considered restricted.,SE,dcai24
-'The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.',A,NICE
-The runtime environment is responsible for Performing secure memory management,SE,dcai24
-The system should provide the ability to record system maintenance events.,SE,dcai24
-'The product shall be used in office environments.',O,NICE
-"This, combined with Security Requirement 31 (Encrypting PHI During Transmission) implies that all wireless communication of PHI be encrypted.",SE,dcai24
-The audit report shall be available to other adjusters at later points in time.,FR,promise_exp
-Information should be tagged according to who is entering the data.,FR,promise_exp
-'The product must be able to interface with various email servers. The product shall be able to send email.',O,NICE
-'Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.',FR,NICE
-'The website shall achieve 99.5% up time.',A,NICE
-"NPAC SMS shall support the Service Providersâ€™ acknowledgment via 2 secure electronic forms, Email or FTP using encryption mechanisms.",SE,dcai24
-'The product shall assign the organizers contact information to each meeting they create.',FR,NICE
-c) encrypting the data it contains.,SE,dcai24
-The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.,US,promise_exp
-This is primarily done through userids and passwords.,SE,dcai24
-Once a game is initiated  the product shall display a defensive grid to each player,FR,promise_exp
-While streaming a movie buffering should only occur if there is latency in the user\92s connection.,PE,dcai24
-'The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles',FR,NICE
-The product shall store new conference rooms.,FR,promise_exp
-An end-user may use this system on any OS; either it is Windows or Linux.,PO,promise_exp
-"System supports secure protocols, including SFTP, SSL, and SSH.",SE,dcai24
-The system could provide the ability to obfuscate data.,SE,dcai24
-Select English as preferred language Given the administrator wants to select a preferred language When the administrator selects English as a new language Then the web-portal will show all text in English,FR,dcai24
+'The product shall be able to send meeting notifications via different kinds of end-user specified methods.',FR,NICE
+The application shall have a downtime of at most 10 minutes per year.,A,promise_exp
+'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds',PE,NICE
+"If a user performs a quick or advanced search, the System must never include in the search result list any record which the user does not have the right to access.",SE,dcai24
+The system should provide for role-based control for the functionality within the system.,SE,dcai24
+'The product will function alongside server software on any operating system where the Java runtime can be installed.',PO,NICE
+"The system should prevent repudiation of data origination, receipt, or access.",SE,dcai24
+All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation,MN,dcai24
+'The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.',A,NICE
+The product shall comply with corporate color scheme,LF,promise_exp
+The system shall optionally allow user to print the invoice.,FR,promise_exp
+Only administrators can activate a pre-paid card.,SE,promise_exp
+The look and feel of the system shall conform to the user interface standards of the smart device.,LF,promise_exp
+'The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.',PE,NICE
+Select Swedish as preferred language Given the restaurant owner wants to select a preferred language When the restaurant owner selects Swedish as a new language Then the web-portal will show all text in Swedish,FR,dcai24
+The system should have to keep the location where the doughnut will be send.,O,promise_exp
+1) The system shall conform to function IN.1.1 (Entity Authentication).,SE,dcai24
+Website shall request  and authorize credit card payment before allowing a user to stream a movie.,FR,promise_exp
+"The administrator can add POIÃ¢â‚¬â„¢s. A POI should belong to a certain building, floor and room number.",FR,dcai24
 'The product will be available for licensing as a one-server two-five servers or five-or-more servers license.',O,NICE
-The CEP card authenticates the PSAM using the certificates previously received and the S2 The CEP card increments the value of the purse and logs the transaction,SE,dcai24
-"Most important, the store of access permissions to administrative features and access permissions must be secure.",SE,dcai24
-The application has a map view in stylistic style.,FR,dcai24
-Add restaurant information Given the administrator is logged in When the administrator adds restaurant information Then the information should be added to the restaurant,FR,dcai24
-NPAC SMS shall ensure unique numbering of the keys.,SE,dcai24
-"The system will need policy and procedures protecting the data from intentional or unintentional modifications, and to ensure accurate data are made available.",SE,dcai24
-A primary database will be used to store cached data for active users.,O,promise_exp
-"The system must monitor initial entry, modification, or data exchange, and identify the user taking the action.",SE,dcai24
-The PSAM in the POS device generates a merchant acquirer S5 MAC for the transaction and a new S4 MAC for the batch total count and amount and logs the transaction. The amount of the canceled last purchase transaction is subtracted from the header amount. The transaction is kept in a data store associated with the POS device until the merchant acquirer collects it,SE,dcai24
-Any data that should be viewed by a restricted audience must be protected with appropriate security features.,SE,dcai24
-Staff members shall be able to complete a set of tasks in a timely manner.,PE,promise_exp
-'If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.',FR,NICE
-"-a security policy must be created, promulgated and enforced by administrative and technical means (see section 5.3);",SE,dcai24
-The system should require the user to state time when should the doughnut be delivered.,FR,promise_exp
-NPAC SMS shall not suspend the userId upon exceeding the threshold in R7-33.1.,SE,dcai24
+If the shot was marked as a hit the product shall allow the offensive player to define a shot.,FR,dcai24
+The CNG shall support a mechanism allowing the support of call forwarding toward non-IMS capable CNDs.,FR,dcai24
+The system should use the company colors and logos.,LF,promise_exp
+The from-location is selected from the search result described in UCAR211 and UCAR212.,FR,dcai24
+Access rights and conditions of use will be machine readable and actionable.,SE,dcai24
+The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.,MN,promise_exp
+'The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.',A,NICE
+'The system shall filter data by: Venues and Key Events.',FR,NICE
+The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications,PE,promise_exp
+'System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.',PE,NICE
+When the offensive player takes a shot  the product shall simulate the sound of a ship at sea.,LF,promise_exp
+A valid user is one which has not been disabled or deleted and exists on the system.,SE,dcai24
+The administrator can change text elements used in the user interfaces of the sub-apps and main-app (this does not include the external resources).,FR,dcai24
+It is possible to search for a certain building on the campus of the TU/e by address.,FR,dcai24
+Return to List is available if the patient loaded is not correct.,FR,promise_exp
+The product must be highly configurable for use with various database management systems for the end users. 80% of end users are able to integrate new database management systems with the product without changing the product's software code.',MN,NICE
+'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.',L,NICE
+"2)prevent loss, modification or misuse of user data in application systems;",SE,dcai24
+It must only update the parts that have changed when connecting to the server.,O,promise_exp
+'All of the users shall be able to use the system after one day of training.',US,NICE
+It is possible to search a person by name.,FR,dcai24
+'The system shall link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.',MN,NICE
+'Users should only have to navigate through a maximum of 4 pages to create an account with the website.',LF,NICE
+'The estimator shall apply selected recycled parts to the collision estimate.',FR,NICE
+The process of overriding a device status shall not affect the status of any other device.,SE,dcai24
+Most of the system functions will be controlled using the administrative interface.,FR,promise_exp
+The system shall support deriving access control elements.,SE,dcai24
+The system shall allow user to choose filling that they want.,FR,promise_exp
+This is of greatest concern when data are being changed or updated.,SE,dcai24
+'The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.',US,NICE
+"4) The system shall provide EHR-S security administrators with the ability to grant authorizations for roles according to scope of practice, organizational policy, or jurisdictional law.",SE,dcai24
+The System shall meet all applicable accounting standards.  The final version of the System must successfully pass independent audit performed by a certified auditor.,L,promise_exp
+The system shall support up to 10000 simultaneous users against the central database at any given time and up to 5000 simultaneous users against the local servers at any one time. The performance of the website must be optimal incase of huge loads and hence appropriate load balancing must be done to achieve this. There can be any number of mirror servers readily available in case of huge loads without the user getting any delay.,PE,promise_exp
+When a game is ended  the product shall allow each player to identify himself or herself as an available player in the list of players.,FR,promise_exp
+"The main menu contains a launcher to the Encyclopedia-app, only if the Dutch language is selected.3.1.7",FR,dcai24
 The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.,FR,promise_exp
-'98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Microsoft Internet Explorer Web Controls',O,NICE
-The same hardware supporting the current website will be used to support the new system.,O,promise_exp
-The system shall be responsive. At the DePaul TeleServices Center when a supervisor uses the system to view a callers schedule the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.,PE,dcai24
-All organisations hosting components of the EHRi must protect equipment supporting the EHRi from power failures and other disruptions caused by failures in supporting utilities.,SE,dcai24
-Icons will clearly illustrate the feature it represents.,FR,promise_exp
-The users in the application are all equal so there is not the need of any identity management level.,SE,dcai24
-"NPAC SMS shall display for viewing the exact revision number of the latest software via a Web bulletin board, and also through the NPA Administrative and NPAC SOA Low-tech Interfaces upon completion of the user login sequence.",SE,dcai24
-The system shall allow user to confirm the purchase.,FR,promise_exp
-The owner is then able to set up subsidiary users such as the master of the vessel with their own username and password.,SE,dcai24
-Izogn Administrator must be able to update the category listings on the website within 2 minutes.,PE,promise_exp
-"user is able browse items. User can see the itemsâ€™ pictures, prices, and other
- features.",FR,dcai24
-"All POS systems connected to the EHRi must record in an audit log every instance of a user accessing, updating, or archiving PHI.",SE,dcai24
-"In the subsections that follow, several access control methodologies are discussed that, when taken together, ensure the confidentiality and integrity of PHI by restricting user access to those with a legitimate need-to-know.",SE,dcai24
-The website should have an African feel  but should not alienate non-Africans.  The website should use animation on pages which are describing the services  to grab the users attention and encourage them to sign up.,LF,promise_exp
-The system could provide audit capabilities to capture system events at the hardware and software architecture level.,SE,dcai24
-Nobody except the specific user should be able to log into that account and change personal information.,SE,dcai24
-The IQA subsystem shall take into account current inventory status and adjust inventory of substitutionary ingredients accordingly.,FR,promise_exp
-The interface shall be appealing to callers and supervisors. In the interface and usability survey 80% of beta testers must report that the interface is appealing.,LF,dcai24
-The system shall reveal private information only in compliance with the organization\92s information policy.,SE,promise_exp
-Vendor will submit a credit validation record to be applied to the enterprise billing system.,FR,promise_exp
-Velkat staff will be available for phone support between 7am-7pm  M-F to provide technical support to the Izogn administrators.,A,promise_exp
-The system shall be able to detect security-relevant events that it mediates and generate audit records for them.,SE,dcai24
-'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.',FR,NICE
-Send transactions to other processors in a standard format defined in agreement with the scheme provider,FR,dcai24
-Students added to a cohort shall be eligible for the cohort's Program of Study.',FR,NICE
-The system shall not leave any cookies on the customer's computer containing any of the user's confidential information.,SE,promise_exp
-"Security incident management procedures are intended to restore normal EHRi operations in a timely manner, and to minimise any loss of confidentiality or data and system integrity.",SE,dcai24
-It should not take more than 90 seconds for a registered user to place an order.,US,promise_exp
-The website shall prevent its data from being corrupted when incorrect data is entered in.,SE,promise_exp
-'Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.',SE,NICE
-The objectives of security incident management are to: 1)build a reporting infrastructure for reporting incidents and weakness; and 2)manage incidents and institute improvements to prevent their future occurrence.,SE,dcai24
-"The RLCS shall incorporate a database to store, process, and retrieve all data necessary to secure the system from unauthorized use.",SE,dcai24
+Responses to view information shall take no longer than 5 seconds to appear on the screen.,PE,promise_exp
+'100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.',SC,NICE
+The product shall adhere to the corporate Architecture guidelines,O,promise_exp
+95% of users will not need to read the user manual to be able to use the application.,US,promise_exp
+'The product shall respond fast to keep up-to-date data in the display.',PE,NICE
+The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.,LF,promise_exp
+'The WCS system shall have the ability to include data for regions outside the United States and be accessed by users outside of the United States if approved by CCR management.',SC,NICE
+The number of mistakes noted by the students shall be decreased by 50% in the first year.,US,promise_exp
+Registered User must be able to maintain his/her session information for at least 60 minutes of inactive session before the system prompts him to log out of the system. The registered user must be provided with all the options of the E-store regardless of the time when he/she logs in.,FR,promise_exp
+The appearance of the product shall appear professional,LF,promise_exp
+It is possible to search for events by subject.,FR,dcai24
+The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.',LF,NICE
+The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.,PE,dcai24
+The primary goal of the GlobalPlatform is to ensure the security and integrity of the card's components for the life of the card. These components are The runtime environment The OPEN The Issuer Security Domain Supplementary Security Domains The Applications.,SE,dcai24
+The CNG shall classify packets coming from the CPN through its LAN interfaces (upstream direction) according to a number of predefined priorities. Classification can be done on the basis of different layer 2 and/or layer 3 parameters.,PE,dcai24
+"Express consent includes any action by a patient or person or their authorized representative (e.g. parent, guardian or substitute decision maker) specifically to authorize the collection, use or disclosure of personal information (e.g. a signature, a check-off box, a verbal approval).",SE,dcai24
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and program of study.',FR,NICE
+check if user is within 1 mile of the campus,FR,dcai24
+The users should be able to easily use the system to successfully complete their budgets within the stipulated time for completion. With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.,US,dcai24
+The product shall be installed by an untrained realtor without recourse to separately-printed instructions.,US,promise_exp
+The product shall be capable of handling up to 1 000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.,SC,promise_exp
+'The website shall achieve 99.5% up time.',A,NICE
+'The system will notify affected parties when changes occur affecting classes including but not limited to class cancellations class section detail changes and changes to class offerings for a given quarter.',FR,NICE
+The customer shall be able to easily integrate new building maps with the product throughout the product s lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.,MN,dcai24
+The NGN network should be provided with a CND location information.,O,dcai24
+The product\92s Look and Feel shall be able to incorporate aspects of the customer\92s organization such as logo branding and identity,LF,dcai24
+The leads washing functionality will compile both contact and academic scoring information for a total score.,FR,promise_exp
+The product is expected to integrate with multiple database management systems. The product will operate with Oracle  SQL Server  DB2  MySQL  HSQL  and MS Access.,O,promise_exp
+User passwords should be between 8 and 12 characters including letters and numbers but excluding spaces.,SE,dcai24
+The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.,PE,promise_exp
+The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.,FR,dcai24
+(i.e. using the same CND in two different CPNs declaring the same public identity). Supporting this scenario for non IMS capable CNDs is still to be discussed.,FR,dcai24
+Pre-paid cards shall be distributed via email or via a printed paper card.,FR,promise_exp
 The product shall have a customizable Look and Feel.,FR,promise_exp
-Every entry in the health record must be identified with the author and should not be made or signed by someone other than the author.,SE,dcai24
-"In turn, controlling access is a minimum requirement of perimeter security.",SE,dcai24
+The CNG shall support use of one user identity on several terminals as well as to share one terminal with several identities.,FR,dcai24
+'An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.',US,NICE
+New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process.,MN,promise_exp
+The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.,L,promise_exp
+The CNG may interact with the Resource and Admission Control Subsystem (RACS) as defined in ES 282 001 [9] to support remote real-time QoS control,PE,dcai24
+The system shall allow user to select the order from the order history.,FR,promise_exp
+'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.',L,NICE
+'The product must make use of web/application server technology. Open source examples include Apache web server Tomcat and the JBoss application server.',O,NICE
+"NPAC SMS shall display the number of unsuccessful attempts by that userId to access the system, since the last successful access by that userId upon successful login.",SE,dcai24
+The system shall be able to display a printable summary for individual clinical labs which will include (but not be limited to) class name class number lab section listing of students enrolled instructor day(s) time and location.,FR,dcai24
+The Disputes System must be accessible by both internal and external users.,FR,promise_exp
+The product shall have a conservative and professional appearance.,LF,promise_exp
+'The product shall be intuitive and self-explanatory. Nine out ten users shall be able to successfully complete a game with no training.',US,NICE
+It is possible to search for events by date.,FR,dcai24
+'The product must be able to interface with various email servers. The product shall be able to send email.',O,NICE
+The application itself will only have minimal logic and so there should be little to no issues with the computation required by the phone itself.,FR,dcai24
+The product shall be translated into foreign languages other than the target market countries\92 languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market\92s language.,US,dcai24
+The menus of the system must be easily navigable by the users with buttons that are easy to understand.,US,promise_exp
+'100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.',SC,NICE
+A customer can only stream a movie if they purchased it  and are within the 2 day viewing period.,SE,promise_exp
+'The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.',A,NICE
+'Out of 1000 accesses to the system the system is available 999 times.',A,NICE
+"Each historical site should have a marker for each site placed on map that include the name, shorten description, and link to the site page.",FR,dcai24
+"An IPTV media flow shall be terminated by a STB or by a specific device called ""media gateway"" (or ""application gateway""). The CNG shall not terminate any IPTV flow by itself.",FR,dcai24
+The product shall comply with corporate User Interface Guidelines,LF,promise_exp
+'The washing process must use a non binding neutral data format such as xml when receiving and processing lead data.',O,NICE
+A database management system such as Oracle  DB2  MySql or HSQL will need to be integrated with the product.,O,promise_exp
+All Web pages generated by the system shall be fully downloadable in no more than 10 seconds over a 40KBps modem connection.,PE,promise_exp
+The system shall accommodate high number of items and users without any fault.,FT,promise_exp
+The CPN shall support remote access based on NGN network functions.,FR,dcai24
+'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.',PO,NICE
+The web application shall add no more than 5 seconds of perceivable overhead time to any necessary web and database transaction time.,PE,promise_exp
+'All actions that modify an existing dispute case must be recorded in the case history.',L,NICE
+The product shall record updated meeting agendas.,FR,promise_exp
+'The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.',O,NICE
+The system shall allow a real estate agent to query MLS information,FR,promise_exp
+Responsible for contacting the banks for the validation of the a/c number provided by the customer while purchasing and make the transaction from the given a/c.,FR,promise_exp
+Unload and currency exchange transactions are optional for CEP card issuers. The CEP card must indicate whether the card issuer supports these transactions. However if a card issuer issues multi-currency capable cards it must provide its cardholder with a facility to remove any remaining value. As a result if a card issuer supports loading of multiple currencies onto a card then it must support the unload or currency exchange transaction or both,LF,dcai24
+The response shall be fast enough to avoid interrupting the user\92s flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.,PE,promise_exp
+'The system shall operate within the Windows XP Professional operating system.',O,NICE
+'The product shall be available 24 hours per day seven days per week.',A,NICE
+'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.',US,NICE
+'If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.',FR,NICE
+'98% of the user workstations shall meet the minimum hardware requirements prior to implementation. Minimum Hard Disk Space: 400MB.',O,NICE
+Defect reports will be available to technical units on a 24x7 basis.,A,promise_exp
+All changes  updates  and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation,MN,promise_exp
+The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.,FR,promise_exp
+The product must make use of web/application server technology. Open source examples include Apache web server Tomcat and the JBoss application server.,O,dcai24
+The product is expected to run on Windows CE and Palm operating systems.,PO,promise_exp
 The product shall be used in office environments.,O,promise_exp
-'The same hardware supporting the current website will be used to support the new system.',O,NICE
-The system shall run on Windows Server 2003.,PO,promise_exp
+It must allow a user to logout.,FR,promise_exp
+The WCS system shall be run in a Windows environment. The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.,O,promise_exp
+'All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation',MN,NICE
+Such active intrusion detection is an essential feature of robust security systems.,SE,dcai24
+Internally to the CPN a CNG transmitting private or other critical information (i.e. to a CND) shall protect the data from unauthorised disclosure.,SE,dcai24
+"Mobile application - Sorting results DESC: When viewing the results in a list, a user should be able to sort the results according to price, distance, restaurant type, specific dish or restaurant name. When sorting by restaurant name, specific dish or restaurant type the results should be ordered alphabetically. When sorting by price the results should be ordered from cheapest to most expensive. When sorting by distance the results should be ordered from closets to furthest distance according to the userÃ¢â‚¬â„¢s position. When the sort button for a specific search option is clicked, then the order should be reversed and ordered in a descending matter. If the sort button is clicked again the order of the results should be reversed.",FR,dcai24
+Users shall be able to reach the \91add\92  \91drop\92  and \91trade player\92 pages with one click from the team owner\92s page.,US,promise_exp
+Product formulas shall allow use of semi-products which have own formulas.,FR,dcai24
+The CND directly or through the CNG must be able to access to Network Configuration Service Function avoiding any user interaction. (and so the Network Configuration Server should be able to upload different parameter related to service subscription).,FR,dcai24
+The system’s back-end servers shall only be accessible to authenticated administrators.,SE,dcai24
+Taking permission from the Administrator for the product to be purchased from vendor.,FR,promise_exp
+Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install.,MN,promise_exp
+For each turn the product shall allow the offensive player to define a shot.,FR,dcai24
+'The website shall be capable of supporting 100 000 customers.',SC,NICE
+'A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.',US,NICE
+The from-location can be searched by the address of a building.,FR,dcai24
+The estimator shall apply selected recycled parts to the collision estimate.,FR,promise_exp
+All additions of new users and modifications to user\92s access shall be recorded on the User Report.,SE,promise_exp
+'The product shall allow the user to view previously downloaded search results CMA reports and appointments.',FR,NICE
+If Home to Home (H2H) communication service is provided then each CNG must ensure that emergency service sessions originating in its CPN are associated with the appropriate location information and/or calling identity.,L,dcai24
+Each POS transaction completed at the POS device is given a S5 MAC by the PSAM which is used by the merchant acquirer to validate that the transactions were made at a POS device with a valid PSAM. The batch total count and amount must be protected by the S4 MAC which must also be validated by the merchant acquirer,SE,dcai24
+"System shall let customers register on the website as a ""pay as you go"" user in under 5 minutes.'",PE,NICE
+viewing a movie details the website will display the movies description actor and director entered in by the administrator.,FR,promise_exp
+A primary database will be used to store cached data for active users.,O,promise_exp
+The CNG shall classify packets entering the CPN through its WAN interface (downstream direction) according to a number of predefined priorities. Classification can be done on the basis of different layer 2 and/or layer 3 parameters.,PE,dcai24
+The system must be available for use between 7,A,dcai24
+The website should appeal to all Africans not only Nigerians.,LF,dcai24
+When the hit results in sinking a ship  the product shall notify the players that the ship was sunk.,FR,promise_exp
+The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.,O,promise_exp
+The product shall ensure that only supervisors can enter a caller s schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE,dcai24
+"Organisations hosting components of the EHRi, must restrict and control the use of system utility programs.",SE,dcai24
+The product shall conform to the Americans with Disabilities Act.,US,promise_exp
+For each turn  the product shall allow the offensive player to define a shot.,FR,promise_exp
+The system shall refresh the display every 60 seconds.,PE,promise_exp
+An error message alerts when an invalid patient is entered.,FR,promise_exp
+'viewing a movie details the website will display the movies description actor and director entered in by the administrator.',FR,NICE
+The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.,US,promise_exp
+'The product shall adhere to the corporate online availability schedule. The application is brought down only within 98% of the scheduled outages per the availability schedule.',A,NICE
+The performance shall depend upon hardware components of the client/customer.,PE,promise_exp
+The website shall be attractive to all audiences.  The website shall appear to be fun and the colors should be bright and vibrant.,LF,promise_exp
+The website shall continue to operate if the streaming server goes down.,FT,promise_exp
+"Mobile application - Filtering results DESC: When viewing the results in a list or a map, a user should be able to filter the results in a filtering menu. The filtering options include: increasing or decreasing the maximum distance increasing or decreasing the maximum price choosing a restaurant type choosing a specific dish",FR,dcai24
+User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role.',SE,NICE
+The user interface of the system should be very user friendly. ,US,promise_exp
+The reliability of the overall program depends on the reliability of the separate components. The main pillar of reliability of the system is the backup of the database which is continuously maintained and updated to reflect the most recent changes.,FT,promise_exp
+The product shall be available 24 hours per day  seven days per week.,A,promise_exp
+Once a game has been initiated  the product shall make the players assigned to the game unavailable for selection from the list of players.,FR,promise_exp
+The administrator can add vertices of a path which is used in the route planner.,FR,dcai24
+The system shall have a help system that offers tips and explanation for each screen and each item on the screens upon demand.,US,promise_exp
+The system should be able to manage all the information incoming from the database and the catalogue.,O,promise_exp
+"if the user no longer wishes to use the system, he/she can click â€œDelete Profileâ€_x009d_
+ button. After deleting the profile, the user will no longer be able to use the system with the
+ account details that he entered before.",FR,dcai24
+Traffic marking: depending on what are the parameters used to perform classification CNDs or CNG itself on behalf of the CNDs shall be able to modify the packets' priority.,PE,dcai24
+The product shall display a map of the company building showing conference room locations.,FR,promise_exp
+Proper positioning of workstations also plays a role in ensuring that the patients or persons cannot see the details of other people's records.,SE,dcai24
+'For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.',O,NICE
+NPAC SMS shall provide the list of keys in a secure electronic form.,SE,dcai24
+The product shall use symbols and words that are naturally understandable by the realtor community.,US,promise_exp
+Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.,FR,promise_exp
+'The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.',FR,NICE
+The product shall have a consistent color scheme and fonts.,LF,promise_exp
+Vendors must take permission from the Administrator for selling their products under the site. Administrator will test product’s quality according to its market price to permit vendor for selling purpose.,FR,dcai24
+The amount to be reversed is the amount of the last step of the transaction. The reversal command sent to the CEP card contains a S2 MAC computed by the PSAM,SE,dcai24
+The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds,PE,promise_exp
+-managing expense budgets for IT security services and capital expenditures;,SE,dcai24
+1) The system shall conform to function IN.1.1 (Entity Authentication) to provide authentication capabilities.,SE,dcai24
+The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.,US,promise_exp
+"""One of the major requirements for a GlobalPlatform card is the ability to provide a minimum level of cryptographic functionality. This cryptography is, for example, used for the generation of signatures, and is available for use by the Applications present on the card.""",SE,dcai24
+The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds,PE,promise_exp
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.',FR,NICE
+The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information; the dispute case number the type of chargeback requested (pending or immediate) and the date that the merchant response is due.,FR,dcai24
+'The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.',FT,NICE
+"In this case, the user can buy items he/she has added to cart with credits, if the items are available for buying with credits.",FR,dcai24
+The system shall display the local and exercise time in separate clocks,FR,promise_exp
+The system shall provide a way to evaluate the information extracted from the P3P privacy policy against the information extracted from the userâ€™s privacy preferences.,SE,dcai24
+While streaming a movie  buffering should only occur if there is latency in the user\92s connection.,PE,promise_exp
+Users should only have to navigate through a maximum of 4 pages to create an account with the website.,US,dcai24
+The user ID and date or time stamp shall be recorded.,SE,dcai24
+"""The Card Issuer is responsible for Enforcing standards and policies for Application Providers governing all aspects of Applications to be provided to the Card Issuer or operated on the Card Issuer's cards,""",SE,dcai24
+The CNG and devices shall support mechanisms to identify and share information about the customer network devices (e.g. type of device and basic capabilities services supported etc.) within the customer environment. Some of this information can be used locally while a subset of it can be forwarded to the NGN.,O,dcai24
+"This unit will receive a text string from the URL parameter.Ã¢â‚¬â€¹ This unit will identify important words in the sentence and replace them with generic representations preceded by an escape character. (example: Ã¢â‚¬Å“PISBÃ¢â‚¬Â_x009d_ becomes Ã¢â‚¬Å“$buildingÃ¢â‚¬Â_x009d_) Ã¢â‚¬â€¹This unit will output the sentence as a string, as described in R4. Ã¢â‚¬â€¹This unit will output a map of generic representations to the words they replaced.",FR,dcai24
+'System shall let existing customers log into the website with their email address and password in under 5 seconds.',PE,NICE
+The system shall provide a digital image for each product in the product catalog.,US,promise_exp
+The system must be available for use between 7:00AM and 11:59PM all days of the year.,A,promise_exp
+If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.,FR,promise_exp
+'The product will require collaboration with a database management system (DBMS). The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.',O,NICE
+The available server must be reliable and the network connectivity in the supermarket should be proper for smooth flow of all operations and data.,O,promise_exp
+A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.,O,dcai24
+'The look and feel of the system shall conform to the user interface standards of the smart device.',LF,NICE
+The System shall meet all applicable accounting standards. The final version of the System must successfully pass independent audit performed by a certified auditor.,L,dcai24
+The website should have an African feel but should not alienate non-Africans. The website should use animation on pages which are describing the services to grab the users attention and encourage them to sign up.,LF,dcai24
+The product shall retain user preferences in the event of a failure.,FT,promise_exp
+NPAC SMS shall provide a mechanism to restrict user login based on method of entry.,SE,dcai24
+System should be self capable with feature of Auto Suggest,FR,dcai24
+The system should provide secure data exchange capabilities.,SE,dcai24
+"Access rights and conditions can be assigned to an object on an individual basis, or on a group of identified objects at one time.",SE,dcai24
+In the case of an unsuccessful completion exception processing outlined in the On-line Exception Processing section is performed,MN,dcai24
+An employee will be able to successfully use the product within a few minutes. After informally navigating the product for less than 15 minutes users shall be able to successfully setup meetings and reserve conference rooms.,US,dcai24
+The notification of the game ending will include the reason the game is ended (i.e.  a player has won the game or a player has ended the game).,FR,promise_exp
+The system must provide the ability to define system and data access rules.,SE,dcai24
+A list of all disputes cases that meet the entered search criteria must be provided to the user.  The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list.  For example all open cases will be yellow and all closed cases will be gray.,FR,promise_exp
+The intranet pages should display appropriately in all resolutions  from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions  prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.,LF,promise_exp
+The CNG should negotiate session parameters (bandwidth screen resolution codecs…) with the NGN transparently to the user.,FR,dcai24
+The system shall protect private information in accordance with the organization's information policy.',L,NICE
+'The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.',SC,NICE
+'Izogn Administrator must be able to add new products to the website within 2 minutes.',LF,NICE
